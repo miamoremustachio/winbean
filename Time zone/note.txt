@@ -1,0 +1,7 @@
+Always disable Internet time updating before messing with these .reg files:
+
+1. Settings
+2. Time & Language
+3. Date & Time
+4. ✘ Set time zone automatically
+5. ✘ Set time automatically

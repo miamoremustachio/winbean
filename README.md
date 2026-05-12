@@ -9,16 +9,17 @@
 ### <p align="center"> 𓇼 ⋆. 𓆉 .⋆ 𓇼 </p>
 
 ## Index
-> *All information below is intended for use on Windows 11, though can be partially applied to Win10 as well*
 
 - [Essentials](#-essentials)
+- [Software](#-software)
+- [Office](#-office)
 - [Quick fixes](#-quick-fixes)
 
 ### <p align="center"> °‧ 𓆝 𓆟 𓆞 ·。 </p>
 
 ## 🪼 Essentials
 
-Things I always set on a fresh system:
+Things I always use on a fresh system
 
 - 🚫 **Disable hidden ads**
   - *Settings*
@@ -45,7 +46,7 @@ Things I always set on a fresh system:
   - *Proxy*
   - Automatically detect settings ✘
 
-- 🧀 **Disable Sticky keys**
+- ⌨️ **Disable Sticky keys**
   - *Settings*
   - *Accessibility*
   - *Keyboard*
@@ -61,6 +62,66 @@ Things I always set on a fresh system:
     <li>Run <code>powercfg /h off</code></li>
   </ul>
 </ul>
+
+### <p align="center"> ˚‧ 𓆛 ｡･ </p>
+
+## 🍣 Software
+
+<p align="center">
+  <img src="/github/apps.jpg"/>
+</p>
+
+### Ninite
+
+An awesome service that allows you to automatically download, install, and update dozens apps at once
+- Especially helpful when setting up a freshly installed OS
+- [Website](https://ninite.com/)
+
+### 🎲 Misc
+
+- yt-dlp
+  - Command-line tool for downloading vids from everywhere
+  - [GitHub repo](https://github.com/yt-dlp/yt-dlp)
+
+- Flow Launcher
+  - The prettiest Win11 launcher in the wild
+  - [Website](https://www.flowlauncher.com/)
+
+### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
+
+## 💼 Office
+
+<p align="center">
+  <img src="/github/office-2016.jpg"/>
+</p>
+
+A robust alternative to the buggy Microsoft 365 mess remains Office 2016 Pro Plus - a classic Microsoft Office suite, which is still supported on the latest Windows builds
+
+- Offline-first approach
+- Runs flawlessly on Windows 11 
+- ISO image can be downloaded [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
+
+### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
+
+## 🎨 Customization
+
+### 📱 Tablet taskbar
+
+<img src="/github/taskbar_desktop.png" width="48%"> <img src="/github/taskbar_window.png" width="48%">
+
+A little hack that gives your desktop a whole new look
+
+- Download .reg files
+- Enable with double click
+- Disable safely to undo changes
+
+### 🍸 DWMBlurGlass
+
+- Add stylish effects to the system GUI
+- Supports Blur, Aero, Acrylic, and Mica
+- [GitHub](https://github.com/Maplespe/DWMBlurGlass)
+
+### <p align="center"> ✧˚｡ 𓆝 ｡˚✧ </p>
 
 ## 🔧 Quick fixes
 
@@ -89,4 +150,12 @@ del iconcache*
 explorer.exe
 ```
 
-### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
+### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
+
+## Note
+
+> *Don't take this text as a guide to action, use any tools you like!*
+> *All those tips & tricks are intended for use on Windows 11, though can be partially applied to Win10 as well.*
+> *So long, and thanks for sardines~*
+
+### <p align="center"> 𓆝 ⋆. </p>

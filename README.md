@@ -14,7 +14,7 @@
 - [Software](#-software)
 - [Office](#-office)
 - [Customization](#-customization)
-- [Regedits]
+- [Regedits](#-regedits)
 - [Quick fixes](#-quick-fixes)
 
 ### <p align="center"> °‧ 𓆝 𓆟 𓆞 ·。 </p>
@@ -54,16 +54,12 @@ Things I always use on a fresh system
   - *Keyboard*
   - Sticky keys ✘
 
-### Optional
+### *Optional*
 
-<ul>
-  <li><b>🌙 Disable Hibernation</b><br><i>(will also disable Fast Startup)</i></li>
-  &nbsp;
-  <ul>
-    <li>Open the Command Prompt (as administrator)</li>
-    <li>Run <code>powercfg /h off</code></li>
-  </ul>
-</ul>
+- 🌙 **Disable Hibernation**
+  
+  - Open the Command Prompt (as administrator)
+  - Run `powercfg /h off`
 
 ## 🍣 Software
 
@@ -71,7 +67,7 @@ Things I always use on a fresh system
   <img src="/github/apps.jpg"/>
 </p>
 
-### [Ninite](https://ninite.com)
+### 💠 [Ninite](https://ninite.com)
 
 An awesome service that allows you to automatically download, install, and update dozens apps at once.
 Especially helpful when setting up a freshly installed OS.
@@ -121,7 +117,7 @@ A little hack that gives your desktop a whole new look.
 
 ## 🗃️ Regedits
 
-Some tweaks are available as *Registry files* (`.reg`) and can be applied by double-clicking them, which imports the data into the Windows Registry.
+Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
 To use one, locate any directory in 'Regedits' and open the needed file.
 
 - ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the corresponding `.reg` file
@@ -160,7 +156,9 @@ explorer.exe
 ## Note
 
 > *Don't take this text as a guide to action, use any tools you like!*
+>
 > *All those tips & tricks are intended for use on Windows 11, though can be partially applied to Win10 as well.*
+>
 > *So long, and thanks for sardines~*
 
 ### <p align="center"> 𓆝 ⋆. </p>

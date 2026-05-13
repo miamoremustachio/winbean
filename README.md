@@ -13,6 +13,8 @@
 - [Essentials](#-essentials)
 - [Software](#-software)
 - [Office](#-office)
+- [Customization](#-customization)
+- [Regedits]
 - [Quick fixes](#-quick-fixes)
 
 ### <p align="center"> °‧ 𓆝 𓆟 𓆞 ·。 </p>
@@ -63,31 +65,27 @@ Things I always use on a fresh system
   </ul>
 </ul>
 
-### <p align="center"> ˚‧ 𓆛 ｡･ </p>
-
 ## 🍣 Software
 
 <p align="center">
   <img src="/github/apps.jpg"/>
 </p>
 
-### Ninite
+### [Ninite](https://ninite.com)
 
-An awesome service that allows you to automatically download, install, and update dozens apps at once
-- Especially helpful when setting up a freshly installed OS
-- [Website](https://ninite.com/)
+An awesome service that allows you to automatically download, install, and update dozens apps at once.
+Especially helpful when setting up a freshly installed OS.
 
 ### 🎲 Misc
 
-- yt-dlp
-  - Command-line tool for downloading vids from everywhere
-  - [GitHub repo](https://github.com/yt-dlp/yt-dlp)
+- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+  - Command-line video downloader
+  - Supports YouTube, Vimeo, TikTok, Instagram, Twitch and over 1,700 other platforms
 
-- Flow Launcher
+- [Flow Launcher](https://www.flowlauncher.com)
   - The prettiest Win11 launcher in the wild
-  - [Website](https://www.flowlauncher.com/)
-
-### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
+  - Everything search integration
+  - Extendable with plugins
 
 ## 💼 Office
 
@@ -95,13 +93,11 @@ An awesome service that allows you to automatically download, install, and updat
   <img src="/github/office-2016.jpg"/>
 </p>
 
-A robust alternative to the buggy Microsoft 365 mess remains Office 2016 Pro Plus - a classic Microsoft Office suite, which is still supported on the latest Windows builds
+A robust alternative to the buggy 365 mess remains Office 2016 Professional Plus - a classic Microsoft Office suite, which is still supported on the latest Windows builds.
 
 - Offline-first approach
 - Runs flawlessly on Windows 11 
 - ISO image can be downloaded [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
-
-### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
 
 ## 🎨 Customization
 
@@ -109,19 +105,28 @@ A robust alternative to the buggy Microsoft 365 mess remains Office 2016 Pro Plu
 
 <img src="/github/taskbar_desktop.png" width="48%"> <img src="/github/taskbar_window.png" width="48%">
 
-A little hack that gives your desktop a whole new look
+A little hack that gives your desktop a whole new look.
 
-- Download .reg files
-- Enable with double click
-- Disable safely to undo changes
+- Run the [Registry file](#️-regedits) to use it
 
 ### 🍸 DWMBlurGlass
+
+<img src="/github/aero-glass.webp" width="100%"/>
 
 - Add stylish effects to the system GUI
 - Supports Blur, Aero, Acrylic, and Mica
 - [GitHub](https://github.com/Maplespe/DWMBlurGlass)
 
 ### <p align="center"> ✧˚｡ 𓆝 ｡˚✧ </p>
+
+## 🗃️ Regedits
+
+Some tweaks are available as *Registry files* (`.reg`) and can be applied by double-clicking them, which imports the data into the Windows Registry.
+To use one, locate any directory in 'Regedits' and open the needed file.
+
+- ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the corresponding `.reg` file
+
+### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
 
 ## 🔧 Quick fixes
 
@@ -150,7 +155,7 @@ del iconcache*
 explorer.exe
 ```
 
-### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
+### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
 
 ## Note
 
@@ -159,3 +164,5 @@ explorer.exe
 > *So long, and thanks for sardines~*
 
 ### <p align="center"> 𓆝 ⋆. </p>
+
+<!-- ### <p align="center"> ˚‧ 𓆛 ｡･ </p> -->

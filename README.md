@@ -10,6 +10,8 @@
 
 ## Index
 
+- [Installation](#-installation)
+- [Activation](#-activation)
 - [Essentials](#-essentials)
 - [Software](#-software)
 - [Office](#-office)
@@ -17,11 +19,74 @@
 - [Regedits](#-regedits)
 - [Quick fixes](#-quick-fixes)
 
+### <p align="center"> ˚‧ 𓆛 ｡･ </p>
+
+## 🪸 Installation
+
+<p align="center">
+  <img src="/github/installation.webp"/>
+</p>
+
+### 💿 Requirements
+
+- USB flash drive with at least 8GB space
+- Bootable USB creation tool ([Rufus](https://rufus.ie) will do)
+
+### 📄 Optional: custom answer file
+
+<p align="center">
+  <img src="/github/schneegans.webp"/>
+</p>
+
+If you prefer maximum control over the installation process, you'll love Christoph Schneegans' [Unattend generator](https://schneegans.de/windows/unattend-generator/).
+
+This web service allows you to create a special file to automatically load a custom predefined config during the Windows installation.
+
+> Choose one of the presets at the top if you don't wanna scroll the whole page
+
+No need to manually select tons of options or scrub your OS later to get rid of bloatware, just let the little file do that for you!🩵
+
+### 🛠️ Installation steps
+
+<img src="/github/installation-media.webp"/>
+
+- [Download](https://www.microsoft.com/en-us/software-download/windows11) Windows 11
+
+> Make sure you're downloading the *media creation tool*, not the installation assistant or ISO
+
+- Run the media creation tool
+- Create installation media from your flash drive
+- Place `autounattend.xml` you've made before to flash drive's root directory
+
+## ⚠️ ALWAYS do a proper system backup before messing with boot drive to prevent personal files loss
+
+- Restart your PC and enter BIOS/UEFI setup (usually `F2`, `F10` or `Del`)
+- Select your drive in the boot menu
+- Follow the further steps in Windows installer
+
 ### <p align="center"> °‧ 𓆝 𓆟 𓆞 ·。 </p>
+
+## 🦪 Activation
+
+<p align="center">
+  <img src="/github/massgravel.webp"/>
+</p>
+
+### 🔐 Massgravel
+
+Activate Windows is easier than ever today - no shady torrent dumps, no `J3QQ4-H7H2...`, just paste a string in Powershell and you're golden 💅
+
+- An open-source activator trusted by millions
+- Activate Windows & Office in one minute
+- Simply change Windows/Office edition
+
+🔗 [Instructions here](https://massgrave.dev)
+
+### <p align="center"> ˚.⭑ 𓆜 ⭑. ๋ </p>
 
 ## 🪼 Essentials
 
-Things I always use on a fresh system
+Things I always set on a fresh system
 
 - 🚫 **Disable hidden ads**
   - Settings
@@ -106,7 +171,7 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 
 ### 📱 Tablet taskbar
 
-<img src="/github/taskbar-desktop.webp" width="48%"> <img src="/github/taskbar_window.webp" width="48%">
+<img src="/github/taskbar-desktop.webp" width="48%"> <img src="/github/taskbar-window.webp" width="48%">
 
 A little hack to give your desktop a whole new look ✨
 
@@ -173,5 +238,3 @@ explorer.exe
 ### <p align="center">*So long, and thanks for sardines*</p>
 
 ### <p align="center"> 𓆝 ⋆. </p>
-
-<!-- ### <p align="center"> ˚‧ 𓆛 ｡･ </p> -->

@@ -25,27 +25,27 @@ Things I always use on a fresh system
 
 - 🚫 **Disable hidden ads**
   - Settings
-  - ➤ *System*
-  - ➤ *Notifications*
-  - ➤ *Additional settings*
+  <br>➤ *System*
+  <br>➤ *Notifications*
+  <br>➤ *Additional settings*
   - ✘ Uncheck all
 
 - 💾 **Disable AutoPlay [(why?)](https://basila.medium.com/protect-your-windows-10-from-being-infected-by-dirty-autorun-usb-scripts-permanently-49c4661b831e)**
   - Settings
-  - ➤ *Bluetooth & devices*
-  - ➤ *AutoPlay*
+  <br>➤ *Bluetooth & devices*
+  <br>➤ *AutoPlay*
   - ✘ Use AutoPlay for all media and devices
 
 - ⚡ **Disable Fast startup [(why?)](https://www.howtogeek.com/windows-fast-startup-causing-problems-disable-it/)**
   - Control Panel
-  - *Power Options*
-  - *Choose what the power buttons do*
+  <br>*Power Options*
+  <br>*Choose what the power buttons do*
   - ✘ Turn on fast start-up
   
 - 🌐 **Disable proxy shit**
   - Settings
-  - ➤ *Network & internet*
-  - ➤ *Proxy*
+  <br>➤ *Network & internet*
+  <br>➤ *Proxy*
   - ✘ Automatically detect settings
 
 ### *Optional*
@@ -56,8 +56,8 @@ Things I always use on a fresh system
 
 - ⌨️ **Disable Sticky keys**
   - Settings
-  - ➤ *Accessibility*
-  - ➤ *Keyboard*
+  <br>➤ *Accessibility*
+  <br>➤ *Keyboard*
   - ✘ Sticky keys
 
 ## 🍣 Software
@@ -66,21 +66,25 @@ Things I always use on a fresh system
   <img src="/github/apps.jpg"/>
 </p>
 
-### 💠 [Ninite](https://ninite.com)
+### 💠 Ninite
 
 An awesome service that allows you to automatically download, install, and update dozens apps at once.
 Especially helpful when setting up a freshly installed OS.
 
+🔗 [Website](https://ninite.com)
+
 ### 🐚 *Misc*
 
-- 📺 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- 📺 **yt-dlp**
   - Command-line video downloader
   - Supports YouTube, Vimeo, TikTok, Instagram, Twitch and 1,700+ other platforms
+  - 🔗 [GitHub](https://github.com/yt-dlp/yt-dlp)
 
-- 🚀 [Flow Launcher](https://www.flowlauncher.com)
+- 🚀 **Flow Launcher**
   - The prettiest Win11 launcher in the wild
   - [Everything](https://www.voidtools.com/support/everything/) search integration
   - Extendable with plugins
+  - 🔗 [Website](https://www.flowlauncher.com)
 
 ## 💼 Office
 
@@ -93,8 +97,10 @@ Especially helpful when setting up a freshly installed OS.
 A robust alternative to the buggy 365 mess - a classic Microsoft Office suite still supported on the latest Windows builds.
 
 - Offline-first approach
+- Say no to subscription scam
 - Runs flawlessly on Windows 11 
-- Official ISO image can be downloaded [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
+
+🔗 Official ISO image can be found [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
 
 ## 🐠 Customization
 
@@ -102,19 +108,20 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 
 <img src="/github/taskbar_desktop.png" width="48%"> <img src="/github/taskbar_window.png" width="48%">
 
-A little hack that gives your desktop a whole new look.
+A little hack that gives your desktop a whole new look ✨
 
 - Replaces standard desktop taskbar with a tablet-optimized one
-- Collapses into a slim, tidy bar each time a new window is opened 
-- Run the [Registry file](#️-regedits) to apply
+- Collapses into a slim, tidy bar each time a new window is opened
+- 🔑 Run the [Registry file](#️-regedits) to apply
 
 ### 🍸 DWMBlurGlass
 
 <img src="/github/aero-glass.webp" width="100%"/>
 
-- Add stylish effects to the system GUI
+A free & open-source utility that applies customizable blur-like effects to window frames and title bars 💦
+
 - Supports Blur, Aero, Acrylic, and Mica
-- [GitHub](https://github.com/Maplespe/DWMBlurGlass)
+- 🔗 [GitHub](https://github.com/Maplespe/DWMBlurGlass)
 
 ### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
 
@@ -132,9 +139,9 @@ Some tweaks are available as *Registry files* and can be applied by double-click
 ### 👓 Blurry text in legacy apps
 
 - Find executable file location
-- ➤ *Properties*
-- ➤ *Compatibility*
-- ➤ *change High DPI settings*
+<br>➤ *Properties*
+<br>➤ *Compatibility*
+<br>➤ *change High DPI settings*
 - ✓ Override high DPI scaling behavior
 
 ### 📁 Missing icons in Explorer

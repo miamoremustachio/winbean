@@ -89,7 +89,7 @@ Especially helpful when setting up a freshly installed OS.
 ## 💼 Office
 
 <p align="center">
-  <img src="/github/office-2016.jpg"/>
+  <img src="/github/office.jpg"/>
 </p>
 
 ### Office 2016 Professional Plus
@@ -106,7 +106,7 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 
 ### 📱 Tablet taskbar
 
-<img src="/github/taskbar_desktop.png" width="48%"> <img src="/github/taskbar_window.png" width="48%">
+<img src="/github/taskbar-desktop.webp" width="48%"> <img src="/github/taskbar_window.webp" width="48%">
 
 A little hack to give your desktop a whole new look ✨
 
@@ -129,7 +129,7 @@ A free & open-source utility that applies customizable blur-like effects to wind
 
 Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
 
-- To use one, locate any directory in [Regedits](https://github.com/miamoremustachio/wintin/tree/main/Regedits) and open the needed file.
+- To use one, locate a tweak's directory in [Regedits](https://github.com/miamoremustachio/wintin/tree/main/Regedits) and open the needed file.
 
 > ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the rollback `.reg` file placed alongside.
 

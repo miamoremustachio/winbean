@@ -108,7 +108,7 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 
 <img src="/github/taskbar_desktop.png" width="48%"> <img src="/github/taskbar_window.png" width="48%">
 
-A little hack that gives your desktop a whole new look ✨
+A little hack to give your desktop a whole new look ✨
 
 - Replaces standard desktop taskbar with a tablet-optimized one
 - Collapses into a slim, tidy bar each time a new window is opened
@@ -128,7 +128,8 @@ A free & open-source utility that applies customizable blur-like effects to wind
 ## 🗃️ Regedits
 
 Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
-<br>To use one, locate any directory in 'Regedits' and open the needed file.
+
+- To use one, locate any directory in [Regedits](https://github.com/miamoremustachio/wintin/tree/main/Regedits) and open the needed file.
 
 > ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the rollback `.reg` file placed alongside.
 
@@ -165,9 +166,11 @@ explorer.exe
 
 ## Post scriptum
 
-> *Don't take this text as a guide to action, use any tools you like!*
-> <br>*All those tips & tricks are intended for use on Windows 11, though can be partially applied to Win10 as well.*
-> <br>*So long, and thanks for sardines~*
+> • *Don't take this text as a guide to action, use any tools you like!*
+> <br>• *All tips & tricks here are intended for use on Windows 11, though can be partially applied to Win10 as well.*
+
+
+### <p align="center">*So long, and thanks for sardines*</p>
 
 ### <p align="center"> 𓆝 ⋆. </p>
 

@@ -5,7 +5,7 @@
   <img src="/github/preview.jpg" alt="hehehe~" />
 </p>
 
-### <p align="center"> A collection of tips, tools and tweaks that'll make your Windows less shitty </p>
+### <p align="center"> A collection of tips, tools and tweaks that'll make your Windows less fishy </p>
 ### <p align="center"> 𓇼 ⋆. 𓆉 .⋆ 𓇼 </p>
 
 ## Index
@@ -24,42 +24,41 @@
 Things I always use on a fresh system
 
 - 🚫 **Disable hidden ads**
-  - *Settings*
-  - *System*
-  - *Notifications*
-  - *Additional settings*
-  - Uncheck all ✘
+  - Settings
+  - ➤ *System*
+  - ➤ *Notifications*
+  - ➤ *Additional settings*
+  - ✘ Uncheck all
 
 - 💾 **Disable AutoPlay [(why?)](https://basila.medium.com/protect-your-windows-10-from-being-infected-by-dirty-autorun-usb-scripts-permanently-49c4661b831e)**
-  - *Settings*
-  - *Bluetooth & devices*
-  - *AutoPlay*
-  - Use AutoPlay for all media and devices ✘
+  - Settings
+  - ➤ *Bluetooth & devices*
+  - ➤ *AutoPlay*
+  - ✘ Use AutoPlay for all media and devices
 
 - ⚡ **Disable Fast startup [(why?)](https://www.howtogeek.com/windows-fast-startup-causing-problems-disable-it/)**
-  - *Control Panel*
+  - Control Panel
   - *Power Options*
   - *Choose what the power buttons do*
-  - Turn on fast start-up ✘
+  - ✘ Turn on fast start-up
   
 - 🌐 **Disable proxy shit**
-  - *Settings*
-  - *Network & internet*
-  - *Proxy*
-  - Automatically detect settings ✘
-
-- ⌨️ **Disable Sticky keys**
-  - *Settings*
-  - *Accessibility*
-  - *Keyboard*
-  - Sticky keys ✘
+  - Settings
+  - ➤ *Network & internet*
+  - ➤ *Proxy*
+  - ✘ Automatically detect settings
 
 ### *Optional*
 
 - 🌙 **Disable Hibernation**
-  
-  - Open the Command Prompt (as administrator)
+  - Command Prompt (as administrator)
   - Run `powercfg /h off`
+
+- ⌨️ **Disable Sticky keys**
+  - Settings
+  - ➤ *Accessibility*
+  - ➤ *Keyboard*
+  - ✘ Sticky keys
 
 ## 🍣 Software
 
@@ -72,15 +71,15 @@ Things I always use on a fresh system
 An awesome service that allows you to automatically download, install, and update dozens apps at once.
 Especially helpful when setting up a freshly installed OS.
 
-### 🎲 Misc
+### 🐚 *Misc*
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- 📺 [yt-dlp](https://github.com/yt-dlp/yt-dlp)
   - Command-line video downloader
-  - Supports YouTube, Vimeo, TikTok, Instagram, Twitch and over 1,700 other platforms
+  - Supports YouTube, Vimeo, TikTok, Instagram, Twitch and 1,700+ other platforms
 
-- [Flow Launcher](https://www.flowlauncher.com)
+- 🚀 [Flow Launcher](https://www.flowlauncher.com)
   - The prettiest Win11 launcher in the wild
-  - Everything search integration
+  - [Everything](https://www.voidtools.com/support/everything/) search integration
   - Extendable with plugins
 
 ## 💼 Office
@@ -89,13 +88,15 @@ Especially helpful when setting up a freshly installed OS.
   <img src="/github/office-2016.jpg"/>
 </p>
 
-A robust alternative to the buggy 365 mess remains Office 2016 Professional Plus - a classic Microsoft Office suite, which is still supported on the latest Windows builds.
+### Office 2016 Professional Plus
+
+A robust alternative to the buggy 365 mess - a classic Microsoft Office suite still supported on the latest Windows builds.
 
 - Offline-first approach
 - Runs flawlessly on Windows 11 
-- ISO image can be downloaded [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
+- Official ISO image can be downloaded [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
 
-## 🎨 Customization
+## 🐠 Customization
 
 ### 📱 Tablet taskbar
 
@@ -103,7 +104,9 @@ A robust alternative to the buggy 365 mess remains Office 2016 Professional Plus
 
 A little hack that gives your desktop a whole new look.
 
-- Run the [Registry file](#️-regedits) to use it
+- Replaces standard desktop taskbar with a tablet-optimized one
+- Collapses into a slim, tidy bar each time a new window is opened 
+- Run the [Registry file](#️-regedits) to apply
 
 ### 🍸 DWMBlurGlass
 
@@ -113,26 +116,26 @@ A little hack that gives your desktop a whole new look.
 - Supports Blur, Aero, Acrylic, and Mica
 - [GitHub](https://github.com/Maplespe/DWMBlurGlass)
 
-### <p align="center"> ✧˚｡ 𓆝 ｡˚✧ </p>
+### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
 
 ## 🗃️ Regedits
 
 Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
-To use one, locate any directory in 'Regedits' and open the needed file.
+<br>To use one, locate any directory in 'Regedits' and open the needed file.
 
-- ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the corresponding `.reg` file
+> ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the rollback `.reg` file placed alongside.
 
-### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
+### <p align="center"> ✧˚｡ 𓆝 ｡˚✧ </p>
 
 ## 🔧 Quick fixes
 
 ### 👓 Blurry text in legacy apps
 
 - Find executable file location
-- *Properties*
-- *Compatibility*
-- *change High DPI settings*
-- Override high DPI scaling behavior ✓
+- ➤ *Properties*
+- ➤ *Compatibility*
+- ➤ *change High DPI settings*
+- ✓ Override high DPI scaling behavior
 
 ### 📁 Missing icons in Explorer
 
@@ -153,13 +156,11 @@ explorer.exe
 
 ### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
 
-## Note
+## Post scriptum
 
 > *Don't take this text as a guide to action, use any tools you like!*
->
-> *All those tips & tricks are intended for use on Windows 11, though can be partially applied to Win10 as well.*
->
-> *So long, and thanks for sardines~*
+> <br>*All those tips & tricks are intended for use on Windows 11, though can be partially applied to Win10 as well.*
+> <br>*So long, and thanks for sardines~*
 
 ### <p align="center"> 𓆝 ⋆. </p>
 

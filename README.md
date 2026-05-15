@@ -19,8 +19,9 @@
 - [Office](#-office)
 - [Explorer](#-explorer)
 - [Customization](#-customization)
-- [Regedits](#-regedits)
+- [Regfiles](#-regfiles)
 - [Quick fixes](#-quick-fixes)
+- [Post scriptum](#post-scriptum)
 
 ### <p align="center"> ˚‧ 𓆛 ｡･ </p>
 
@@ -44,11 +45,12 @@
 If you prefer maximum control over the installation process, you'll love **Christoph Schneegans' Unattend generator**.
 
 This web service allows you to create a special `.xml` file that automatically loads your own predefined config during the Windows installation.
-<br>Moreover, it has on option to create a local account with no hassle ([full explanation why does it matter](https://www.youtube.com/watch?v=5Kzai1QVXQc))
+<br>Moreover, it has on option to create a local account with no hassle ([full explanation why does it matter](https://www.youtube.com/watch?v=5Kzai1QVXQc)).
 
 No need to manually select tons of options or scrub your OS later to get rid of bloatware, just let the little file do that for you!
 
 🔗 [Website](https://schneegans.de/windows/unattend-generator)
+
 💎 [A perfect overview of all features](https://www.youtube.com/watch?v=h9SpKVEc_Yo)
 
 ### 🛠️ Installation steps
@@ -120,9 +122,9 @@ Lightweight, but feature-rich script to fully declutter your Windows machine ♻
 Best way to use Microsoft Edge is burn this spawn of Satan to hell.
 <br>However, if you decided to keep Edge as a reserve browser, you might wanna make it less visible on your system - for instance, by stop it from creating a desktop shortcut on every update:
 
-🔑 Run the [registry file](https://github.com/miamoremustachio/wintin/tree/main/Regedits/Edge)
+🔑 Run the [registry file](https://github.com/miamoremustachio/wintin/tree/main/Regfiles/Edge)
 
-> [What are registry files?](#️-regedits)
+> *[What are registry files?](#️-regfiles)*
 
 ### <p align="center"> ˚.⭑ 𓆜 ⭑. ๋ </p>
 
@@ -217,9 +219,9 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 
 Raphire's Win11Debloat utility I mentioned earlier has [variety of options](https://github.com/raphire/win11debloat#file-explorer) to tweak File Explorer - however, if you wish to do it manually, here's a bunch of reg files for you:
 
-🔑 [\*click\*](https://github.com/miamoremustachio/wintin/tree/main/Regedits/Explorer)
+🔑 [\*click\*](https://github.com/miamoremustachio/wintin/tree/main/Regfiles/Explorer)
 
-> [What are registry files?](#️-regedits)
+> *[What are reg files?](#️-regfiles)*
 
 ## 🐠 Customization
 
@@ -232,9 +234,9 @@ A little hack to give your desktop a whole new look ✨
 - Replaces standard desktop taskbar with a tablet-optimized one
 - Collapses into a slim, tidy bar each time a new window is opened
 
-🔑 Run the [Registry file](https://github.com/miamoremustachio/wintin/tree/main/Regedits/Tablet%20taskbar) to apply
+🔑 Run the [registry file](https://github.com/miamoremustachio/wintin/tree/main/Regfiles/Tablet%20taskbar) to apply
 
-> [What are registry files?](#️-regedits)
+> *[What are registry files?](#️-regfiles)*
 
 ### 🍸 DWMBlurGlass
 
@@ -248,7 +250,7 @@ A free & open-source utility that applies customizable blur-like effects to wind
 
 ### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
 
-## 🗃️ Regedits
+## 🗃️ Regfiles
 
 Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
 

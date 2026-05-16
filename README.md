@@ -14,13 +14,15 @@
   - [Custom answer file](#-custom-answer-file)
 - [Activation](#-activation)
 - [Debloating](#-debloating)
+<!-- - [Updates](#-updates) -->
 - [Recommendations](#-recommendations)
 - [Software](#-software)
 - [Office](#-office)
+- [Runtimes](#-runtimes)
 - [Explorer](#-explorer)
 - [Customization](#-customization)
-- [Regfiles](#-regfiles)
-- [Quick fixes](#-quick-fixes)
+- [Troubleshooting](#-troubleshooting)
+- [Regfiles](#️-regfiles)
 - [Post scriptum](#post-scriptum)
 
 ### <p align="center"> ˚‧ 𓆛 ｡･ </p>
@@ -211,6 +213,18 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 
 🔗 Official ISO image can be found [here](https://files.rg-adguard.net/file/7b4d5c04-503c-d26b-874a-642065b08073)
 
+## ⌛ Runtimes
+
+<p align="center">
+  <img src="/github/visual-c.png"/>
+</p>
+
+If you're experiencing crashes, system errors, launch failures and other issues with certain games or programs, this might be a sign of missing essential C++ libraries.
+
+🔗 [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+
+The archive above is regularly updated and includes all the necessary C++ libraries - try installing them and see if that solves the problem 🔧
+
 ## 🧭 Explorer
 
 <p align="center">
@@ -248,19 +262,9 @@ A free & open-source utility that applies customizable blur-like effects to wind
 
 🔗 [GitHub](https://github.com/Maplespe/DWMBlurGlass)
 
-### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
-
-## 🗃️ Regfiles
-
-Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
-
-To use one, simply open the needed file and it will do all the work for you.
-
-> ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the rollback `.reg` file placed alongside.
-
 ### <p align="center"> ✧˚｡ 𓆝 ｡˚✧ </p>
 
-## 🔧 Quick fixes
+## 🔧 Troubleshooting
 
 ### 👓 Blurry text in legacy apps
 
@@ -286,6 +290,16 @@ del iconcache*
 # Revive Explorer
 explorer.exe
 ```
+
+### <p align="center"> 𓅰 𓅬 𓅭 𓅮 𓅯 </p>
+
+## 🗃️ Regfiles
+
+Some tweaks are available as *Registry files* and can be applied by double-clicking them, which imports the data into the Windows Registry.
+
+To use one, simply open the needed file and it will do all the work for you.
+
+> ✅ Each registry modification provided here is reversible and can be safely removed from the system by running the rollback `.reg` file placed alongside.
 
 ### <p align="center"> 𓆝 𓆟 𓆞 𓆝 𓆟 </p>
 

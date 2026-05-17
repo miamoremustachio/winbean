@@ -2,7 +2,7 @@
 ### <p align="center"> ⋆<i> Better than sardine! </i>⋆ </p>
 
 <p align="center">
-  <img src="/github/preview.jpg" alt="hehehe~" />
+  <img src="/Assets/preview.jpg" alt="hehehe~" />
 </p>
 
 ### <p align="center"> A collection of tips, tools and tweaks that'll make your Windows less fishy </p>
@@ -30,7 +30,7 @@
 ## 🪸 Installation
 
 <p align="center">
-  <img src="/github/installation.webp"/>
+  <img src="/Assets/installation.webp"/>
 </p>
 
 ### 💿 Requirements
@@ -41,7 +41,7 @@
 ## 📄 Custom answer file
 
 <p align="center">
-  <img src="/github/schneegans.webp"/>
+  <img src="/Assets/schneegans.webp"/>
 </p>
 
 If you prefer maximum control over the installation process, you'll love **Christoph Schneegans' Unattend generator**.
@@ -57,7 +57,7 @@ No need to manually select tons of options or scrub your OS later to get rid of 
 
 ### 🛠️ Installation steps
 
-<img src="/github/installation-media.webp"/>
+<img src="/Assets/installation-media.webp"/>
 
 - [Download](https://www.microsoft.com/en-us/software-download/windows11) Windows 11
 
@@ -78,7 +78,7 @@ No need to manually select tons of options or scrub your OS later to get rid of 
 ## 🦪 Activation
 
 <p align="center">
-  <img src="/github/massgravel.webp"/>
+  <img src="/Assets/massgravel.webp"/>
 </p>
 
 ### 🔐 Massgravel
@@ -94,7 +94,7 @@ Activate Windows is easier than ever today - no shady torrent dumps, no `J3QQ4-H
 ## 🛟 Debloating
 
 <p align="center">
-  <img src="/github/bloatware.webp"/>
+  <img src="/Assets/bloatware.webp"/>
 </p>
 
 If you've tried out an answer file generator described [above](#-custom-answer-file), your system has already been cleared of most of the Microsoft garbage - the creation tool has a dedicated bloatware-removing section where you can select everything you don't want to see on your PC.
@@ -104,7 +104,7 @@ But of course, we can always go deeper:
 ### Win11Debloat
 
 <p align="center">
-  <img src="/github/Win11Debloat.webp"/>
+  <img src="/Assets/Win11Debloat.webp"/>
 </p>
 
 Lightweight, but feature-rich script to fully declutter your Windows machine ♻️
@@ -118,7 +118,7 @@ Lightweight, but feature-rich script to fully declutter your Windows machine ♻
 ### Edge
 
 <p align="center">
-  <img src="/github/edge.jpg"/>
+  <img src="/Assets/edge.jpg"/>
 </p>
 
 Best way to use Microsoft Edge is burn this spawn of Satan to hell.
@@ -174,7 +174,7 @@ Things I always set on a fresh system
 ## 🍣 Software
 
 <p align="center">
-  <img src="/github/apps.jpg"/>
+  <img src="/Assets/apps.jpg"/>
 </p>
 
 ### 💠 Ninite
@@ -200,7 +200,7 @@ Especially helpful when setting up a freshly installed OS.
 ## 💼 Office
 
 <p align="center">
-  <img src="/github/office.jpg"/>
+  <img src="/Assets/office.jpg"/>
 </p>
 
 ### 🖥️ Office 2016 Professional Plus
@@ -216,7 +216,7 @@ A robust alternative to the buggy 365 mess - a classic Microsoft Office suite st
 ## ⌛ Runtimes
 
 <p align="center">
-  <img src="/github/visual-c.png"/>
+  <img src="/Assets/visual-c.webp"/>
 </p>
 
 If you're experiencing crashes, system errors, launch failures and other issues with certain games or programs, this might be a sign of missing essential C++ libraries.
@@ -228,7 +228,7 @@ The archive above is regularly updated and includes all the necessary C++ librar
 ## 🧭 Explorer
 
 <p align="center">
-  <img src="/github/explorer.webp"/>
+  <img src="/Assets/explorer.webp"/>
 </p>
 
 Raphire's Win11Debloat utility I mentioned earlier has [variety of options](https://github.com/raphire/win11debloat#file-explorer) to tweak File Explorer - however, if you wish to do it manually, here's a bunch of reg files for you:
@@ -241,7 +241,7 @@ Raphire's Win11Debloat utility I mentioned earlier has [variety of options](http
 
 ### 📱 Tablet taskbar
 
-<img src="/github/taskbar-desktop.webp" width="48%"> <img src="/github/taskbar-window.webp" width="48%">
+<img src="/Assets/taskbar-desktop.webp" width="48%"> <img src="/Assets/taskbar-window.webp" width="48%">
 
 A little hack to give your desktop a whole new look ✨
 
@@ -254,7 +254,7 @@ A little hack to give your desktop a whole new look ✨
 
 ### 🍸 DWMBlurGlass
 
-<img src="/github/aero-glass.webp" width="100%"/>
+<img src="/Assets/aero-glass.webp" width="100%"/>
 
 A free & open-source utility that applies customizable blur-like effects to window frames and title bars 💦
 

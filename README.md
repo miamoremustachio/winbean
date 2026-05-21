@@ -1,5 +1,6 @@
-# <p align="center"> <b> :green_salad: winbean :green_salad: </b> </p>
-### <p align="center"> ⋆<i> Essential nutrients for your machine </i>⋆ </p>
+<h1 align="center"> <b> :green_salad: Winbean :green_salad: </b> </h1>
+
+<h3 align="center"> ⋅<i> Essential nutrients for your machine </i>⋅ </h3>
 
 <p align="center">
   <img alt="logo" src="/Assets/banner.webp" />
@@ -7,34 +8,22 @@
 
 <h3 align="center"> A collection of tips, tools and tweaks to build a healthy Windows system 🥬 </h3>
 
+# Contents
+
 <p align="center">
-  <a href="/Docs/Installation.md">
-    <img alt="Installation" width="48%" src="/Assets/Buttons/installation.png" />
-  </a>
-  <a href="/Docs/Setup.md">
-    <img alt="Setup" width="48%" src="/Assets/Buttons/setup.png" />
-  </a>
+  <a href="/Docs/Installation.md" target="_blank"><img alt="Installation" width="48%" src="/Assets/Buttons/installation.png" /></a>
+  <a href="/Docs/Setup.md" target="_blank"><img alt="Setup" width="48%" src="/Assets/Buttons/setup.png" /></a>
 </p>
 <p align="center">
-  <a href="/Docs/Debloating.md">
-    <img alt="Debloating" width="48%" src="/Assets/Buttons/debloating.png" />
-  </a>
-  <a href="/Docs/Software.md">
-    <img alt="Software" width="48%" src="/Assets/Buttons/software.png" />
-  </a>
+  <a href="/Docs/Debloating.md" target="_blank"><img alt="Debloating" width="48%" src="/Assets/Buttons/debloating.png" /></a>
+  <a href="/Docs/Software.md" target="_blank"><img alt="Software" width="48%" src="/Assets/Buttons/software.png" /></a>
 </p>
 <p align="center">
-<a href="/Docs/Customization.md">
-    <img alt="Customization" width="48%" src="/Assets/Buttons/customization.png" />
-  </a>
-  <a href="/Docs/Troubleshooting.md">
-    <img alt="Troubleshooting" width="48%" src="/Assets/Buttons/troubleshooting.png" />
-  </a>
+  <a href="/Docs/Customization.md" target="_blank"><img alt="Customization" width="48%" src="/Assets/Buttons/customization.png" /></a>
+  <a href="/Docs/Troubleshooting.md" target="_blank"><img alt="Troubleshooting" width="48%" src="/Assets/Buttons/troubleshooting.png" /></a>
 </p>
 <p align="center">
-<a href="/Docs/FAQ.md">
-    <img alt="FAQ" width="48%" src="/Assets/Buttons/FAQ.png" />
-  </a>
+  <a href="/Docs/FAQ.md" target="_blank"><img alt="FAQ" width="48%" src="/Assets/Buttons/FAQ.png" /></a>
 </p>
 
 ## 🥜 Note
@@ -48,8 +37,6 @@
 
 <p align="center">
   <picture> <img alt="happy-fish" width="10%" src="/Assets/happy-fish-left.gif" /> <picture/> 
-  <a href="https://www.buymeacoffee.com/na.pivo">
-    <img alt="support button" width="40%" src="/Assets/Buttons/support.png" />
-  </a>
+  <a href="https://www.buymeacoffee.com/na.pivo" target="_blank"><img alt="support button" width="40%" src="/Assets/Buttons/support.png" /></a>
   <picture> <img alt="happy-fish" width="10%" src="/Assets/happy-fish-right.gif" /> <picture/>
 </p>

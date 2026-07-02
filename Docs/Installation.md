@@ -1,3 +1,5 @@
+# Installation
+
 <p align="center">
   <img alt="Windows 11 laptop" src="/Assets/installation.webp" />
 </p>
@@ -12,7 +14,7 @@
 If you prefer maximum control over the installation process, you'll love **Christoph Schneegans' Unattend generator**
 
 This web service allows you to create a special `.xml` file that automatically loads your own predefined config during the Windows installation.
-<br>Moreover, it has on option to create a local account with no hassle ([full explanation why does it matter](https://www.youtube.com/watch?v=5Kzai1QVXQc)).
+<br>Moreover, it has on option to create a local account with no hassle ([full explanation why does it matter](https://www.youtube.com/watch?v=5Kzai1QVXQc))
 
 No need to manually select tons of options or scrub your OS later to get rid of bloatware, just let the little file do that for you!
 

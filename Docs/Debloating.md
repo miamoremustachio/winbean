@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Microsoft logo being thrown into the trash" src="/Assets/bloatware.webp" /><br>
-  *Lucas Gouveia / How-To Geek*
+  <i>Lucas Gouveia / How-To Geek</i>
 </p>
 
 ## 🔧 Debloating tools

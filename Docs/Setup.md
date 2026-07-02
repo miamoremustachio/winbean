@@ -19,7 +19,7 @@ Activate Windows is easier than ever today - no shady torrent dumps, no `J3QQ4-H
 
 <p align="center">
   <img src="/Assets/explorer.webp"/><br>
-  *Lucas Gouveia / How-To Geek*
+  <i>Lucas Gouveia / How-To Geek</i>
 </p>
 
 Raphire's Win11Debloat utility I mentioned earlier has [variety of options](https://github.com/raphire/win11debloat#file-explorer) to tweak File Explorer - however, if you wish to do it manually, here's a bunch of reg files for you:
@@ -32,21 +32,21 @@ Things I always change on a fresh system:
 
 ### 🚫 **Disable hidden ads**
   - **Settings**
-  <br>➤ *System*
-  <br>➤ *Notifications*
-  <br>➤ *Additional settings*
+  <br>⮞ *System*
+  <br>⮞ *Notifications*
+  <br>⮞ *Additional settings*
   - ✘ Uncheck all
 
 ### 💾 **Disable AutoPlay [(why?)](https://basila.medium.com/protect-your-windows-10-from-being-infected-by-dirty-autorun-usb-scripts-permanently-49c4661b831e)**
   - **Settings**
-  <br>➤ *Bluetooth & devices*
-  <br>➤ *AutoPlay*
+  <br>⮞ *Bluetooth & devices*
+  <br>⮞ *AutoPlay*
   - ✘ Use AutoPlay for all media and devices
 
 ### ⚡ **Disable Fast startup [(why?)](https://www.howtogeek.com/windows-fast-startup-causing-problems-disable-it/)**
   - **Control Panel**
-  <br>➤ *Power Options*
-  <br>➤ *Choose what the power buttons do*
+  <br>⮞ *Power Options*
+  <br>⮞ *Choose what the power buttons do*
   - ✘ Turn on fast start-up
 
 ## Optional
@@ -57,6 +57,6 @@ Things I always change on a fresh system:
 
 ### ⌨️ **Disable Sticky keys**
   - **Settings**
-  <br>➤ *Accessibility*
-  <br>➤ *Keyboard*
+  <br>⮞ *Accessibility*
+  <br>⮞ *Keyboard*
   - ✘ Sticky keys

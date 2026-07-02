@@ -2,16 +2,16 @@
 
 <p align="center">
   <img alt="Laptop with diagnostic instruments" src="/Assets/troubleshooting.webp" /><br>
-  *Sonu / Noiztech*
+  <i>Sonu / Noiztech</i>
 </p>
 
 ## 👓 Blurry text in legacy apps
 
 - Find app's executable location
 - Right click:
-<br>➤ *Properties*
-<br>➤ *Compatibility*
-<br>➤ *change High DPI settings*
+<br>⮞ *Properties*
+<br>⮞ *Compatibility*
+<br>⮞ *change High DPI settings*
 - ✓ Override high DPI scaling behavior
 
 ## 📁 Missing icons in Explorer

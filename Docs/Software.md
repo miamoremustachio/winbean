@@ -2,7 +2,7 @@
 
 <p align="center">
   <img alt="Windows logo with apps icons around" src="/Assets/apps.jpg" /><br>
-  *Lucas Gouveia / How-To Geek*
+  <i>Lucas Gouveia / How-To Geek</i>
 </p>
 
 ## Ninite
